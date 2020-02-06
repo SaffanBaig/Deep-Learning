@@ -1,0 +1,27 @@
+1- Machine Learning:- Machine can learn from data not from hand crafted(hard coded) rule.
+2- Deep Learning:- It includes neural network, Auto feature engineering( i.e: we don't need to tell about features)
+3- Data Science:- Mixture of AI, ML and DL.
+4- Turing Test:- We can't predict that whether we are talking with machine or human.
+5- Classical Programming:- Input + Program(rules) = Output
+6- Machine Learning:- Input + Output = Program
+7- In ML we need three things
+	1-Input 2-Output 3-Way to measure
+8- Deep Learning is a multi stage learning
+9- Loss Function compares predict value with actual value and returns difference between them.
+10- Re adjusting weights are called back propagation.
+11- AGI :- Artificial General Intelligence (Similar to Human)
+12- ANI :- Artificial Narrow Intelligence (Working on small parts e.g: self driving car)
+13- First Neural Network was written in 1950.
+ML methods:
+14- Probabilistic Modeling is a statistics model (Naive Bayes)
+15- Kernel method is a ML method. Its a group of classification algorithms. Our data is seperated into two parts and line which
+seperates are called hyperplan. e.g support vector machine.
+16- Decision Tree
+17- Random Forest:- Collection of decision tree (CART: Classification Regression tree) Use for classification. Select
+tree on basis of votes.
+18- Boosting Machine:- (Not use in Deep learning) learn from previous mistakes
+Why Deeplearning?
+1- We don't need to tell about features.
+2- Higher accuracy than ML and works better with big data. This is because it learns in layer
+Democratiztion of Deep Learning.
+
