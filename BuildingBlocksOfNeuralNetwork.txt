@@ -1,3 +1,12 @@
 Vectorization:- Converting any data into numbers.
 Dataset contains input data and output data(Label).
 We can split dataset into test data, train data and validate data
+Supervised Learning:
+Classification problem:- When output is categorical (e.g cat or dog, red or blue etc)
+Regression problem:- Output is a set of range
+
+
+Confusion matrix:-
+Truepositive, Truenegative, Falsepostive, Falsenegative
+
+Numpy array is known as tensor.
