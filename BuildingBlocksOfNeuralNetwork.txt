@@ -9,4 +9,34 @@ Regression problem:- Output is a set of range
 Confusion matrix:-
 Truepositive, Truenegative, Falsepostive, Falsenegative
 
-Numpy array is known as tensor.
+Numpy array is known as tensor.	
+
+Loss function or Cost Function (Mean Squared Error) = (trueValue - predictValue)^2 then take mean of answer and then square root
+e.g s=(trueValue-predictValue)^2  =>  mean_squared_error = np.sqrt(s.mean())
+
+Rank = N.o of dimensions (.dim)
+
+1 Dimension = Scalar ( 0D tensors)
+2 Dimension = Matrix
+2+ Dimensions = Tensors  e.g (3 Dimension = 3D Tensors)
+
+e.g :- 4x4 matrix = 2 dimensions = 4 x-axis and 4 y-axis = Total Axis (2)
+
+./ Element wise operations
+./ Broad Casting:- Operations if dimensions of matrix are not similar
+./ Tensor dot
+./ Tensor reshaping
+./ Geometric Interpretation : Ax + Bx, Ay +By  (Uncrumpling a complicated manifold data)
+
+Optimizers:-
+Gradient Descent Optimizer:-
+Keep taking derivative until least mean squared error in linear regression
+Update value of w and b in opposite direction of slope.
+
+Stochastic Gradient Descent :-
+Random values are used.
+
+Mini Batch Stochastic Gradient Descent:- Apply on batch
+
+
+	

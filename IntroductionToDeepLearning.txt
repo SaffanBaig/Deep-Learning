@@ -1,4 +1,4 @@
-1- Machine Learning:- Machine can learn from data not from hand crafted(hard coded) rule.
+1- Machine Learning:- Machine can learn from data not from hand crafted(hard coded) rule. We need to perform feature engineering.
 2- Deep Learning:- It includes neural network, Auto feature engineering( i.e: we don't need to tell about features)
 3- Data Science:- Mixture of AI, ML and DL.
 4- Turing Test:- We can't predict that whether we are talking with machine or human.

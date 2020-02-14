@@ -1,0 +1,15 @@
+1-Layers
+2-Input data
+3- Loss Function (Objective Function)
+4- Optimizer
+
+1- Layers:
+
+Dense:- All Connected
+RNN (Recurrent Neural Network):- Sequential Data (Involvement of time)
+CNN (Convolution Neural Network):- Image Data. (Computer Vision)
+
+Network of layers:
+1- Twobranch
+2- Multihead
+3- Inception
